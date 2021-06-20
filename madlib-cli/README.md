@@ -8,3 +8,4 @@
 ## Change Log
 ## Credits and Collaborations
 - Lauren Sierra
+- Kassie Bradshaw (Code Review)
